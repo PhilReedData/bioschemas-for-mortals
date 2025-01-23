@@ -88,9 +88,9 @@ Using the clustering, we will be able to correctly annotate new and existing gui
 
 
 # Task 3: Drop in session to facilitate Task 2
-![Screenshot from the drop in session, 17:00 CET, 6th Nov 2024](task-3.png)
+![Screenshot from the drop in session, 17:00 CET, 6th Nov 2024. The full Miro board export is available: https://philreeddata.github.io/bioschemas-for-mortals/paper/miro-board-export.pdf](task-3.png)
 
-A drop-in session was scheduled in the middle of the week, inviting Bioschemas users from outside the hackathon pool of participants to provide a [focused set of contributions](https://github.com/PhilReedData/bioschemas-for-mortals/blob/main/paper/miro-board-export.pdf). We looked at the user stories, landscape and website accessibility. The discoveries were formally captured within the work of Task 2.
+A drop-in session was scheduled in the middle of the week, inviting Bioschemas users from outside the hackathon pool of participants to provide a [focused set of contributions](https://philreeddata.github.io/bioschemas-for-mortals/paper/miro-board-export.pdf). We looked at the user stories, landscape and website accessibility. The discoveries were formally captured within the work of Task 2.
 
 Interested readers are invited to contribute to this ongoing process by [completing the survey](https://bit.ly/bh2410s). 
 
